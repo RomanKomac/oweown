@@ -1,6 +1,27 @@
 {
-	"scripts" : {
-	  "start" : "node app.js"
-	},
-	"main" : "app.js"
+  "name": "oweown",
+  "version": "1.0.0",
+  "description": "Dragonhack 2017",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKomac/oweown.git"
+  },
+  "keywords": [
+    "interactive",
+    "nodejs",
+    "app"
+  ],
+  "author": "var_dump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKomac/oweown/issues"
+  },
+  "homepage": "https://github.com/RomanKomac/oweown#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
